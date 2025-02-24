@@ -1,0 +1,28 @@
+title:
+  text: Experience
+  color: "#202124"
+timeline:
+  - company: Oracle
+    date: 2020
+    role: Full-Stack Software Engineer I
+    description: |
+      <li>Developed a multi-platform mobile app using <b>TypeScript</b> and <b>React Native</b>, enabling seamless user experiences across <b>iOS</b> and <b>Android</b> devices.</li>
+      <li>Integrated <b>cloud-based services</b> and <b>APIs</b> to provide real-time product information.</li>
+      <li>Developed a <b>federated SSO</b> and cloud-based authentication service between <b>Oracle Cloud Infrastructure (OCI)</b> and <b>Azure</b>.</li>
+      <li>Enhanced app embedded <b>SQLite</b> performance by analyzing query plan and optimizing queries and transactions, improving load times by 67%.</li>
+  - company: Oracle
+    date: 2021
+    role: Full-Stack Software Engineer II
+    description: |
+      <li>Contributed to a <b>real-time data ingestion system</b> for one of the largest clothing retailers, processing and decorating worldwide ticket revenue data in milliseconds.</li>
+      <li>Optimized <b>Oracle Coherence</b> clusters to ensure data consistency and high availability for global sales reporting across thousands of stores.</li>
+      <li>Collaborated with <b>cross-functional teams</b> to troubleshoot critical production issues, ensuring 99.9% uptime during peak retail events.</li>
+      <li>Improved system performance by leveraging advanced caching strategies and <b>distributed computing</b> principles.</li>
+  - company: Maersk
+    date: 2023
+    role: Full-Stack Software Engineer III
+    description: |
+      <li>Delivered a <b>microservices-based</b> system using <b>Node.js</b> for scalable backend services and <b>Vue.js</b> for dynamic, responsive frontends.</li>
+      <li>Collaborated on projects with <b>Next.js</b> and <b>Spring Boot</b> to deliver modern, scalable user interfaces and enterprise-level backend applications, ensuring seamless integration.</li>
+      <li>Led a <b>big data</b> integration project for Maersk, analyzing offers and vessel capacities, and supporting API telemetry integration while designing Power BI dashboards for actionable insights.</li>
+      <li>Integrated <b>Confluent Avro</b> for schema management and data serialization to ensure compatibility in an <b>event-based</b> ecosystem.</li>

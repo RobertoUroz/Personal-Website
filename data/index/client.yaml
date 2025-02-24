@@ -1,0 +1,16 @@
+isEnabled: false
+
+title:
+  text: Clients
+  color: "#202124"
+
+carousel:
+  items:
+    - src: /images/clients/maersk.webp
+      alt: "Maersk"
+    - src: /images/clients/oracle.webp
+      alt: "Oracle"
+    - src: /images/clients/inditex.webp
+      alt: "Inditex"
+    - src: /images/clients/upc.webp
+      alt: "Universitat Politecnica de Catalunya"

@@ -1,0 +1,21 @@
+{
+  "name": "Roberto Uroz",
+  "short_name": "Roberto Uroz",
+  "description": "Roberto Uroz Personal Website",
+  "icons": [
+    {
+      "src": "/icons/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#297bff",
+  "background_color": "#FFFFFF"
+}

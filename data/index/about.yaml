@@ -1,0 +1,20 @@
+title:
+  text: "About Me"
+  color: "#202124"
+subtitle:
+  text: I'm a software engineer
+cta:
+  text: Let's get started
+picture:
+  src: /images/main.webp
+  alt: A picture of Roberto Uroz
+text: |
+  Based in <b>Copenhagen</b>, I am a highly skilled <b>full-stack software engineer</b>
+  with <b>+5 years of experience</b> working for <b>Fortune 500 Global</b> companies.
+  <br />
+  <br />
+  I specialize in managing both the <b>client-facing user interfaces</b> and the <b>back-end infrastructure</b>. 
+  Providing complete solutions with both functional and user-friendly experiences.
+  <br />
+  <br />
+  Additionally, I focus on <b>big data</b>, leveraging advanced techniques to handle and analyze large datasets for actionable insights.

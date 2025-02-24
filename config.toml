@@ -1,0 +1,14 @@
+name = "Roberto Uroz Personal Website"
+license = "MIT"
+licenselink = "https://github.com/robertouroz/personal-website/blob/master/LICENSE"
+description = "This repository hosts my personal website built using Hugo, a fast and flexible static site generator. It includes a customizable theme optimized for performance, responsiveness, and simplicity. Perfect for showcasing projects, blogging, or maintaining a professional portfolio."
+title = "Roberto Uroz"
+homepage = "https://robertouroz.com/"
+tags = ['personal-website', 'personal', 'portfolio', 'single-page', 'one-page', 'fast', 'typography', 'customizable', 'mobile', 'resume', 'fresh', 'modern', 'flexbox', 'hugo-theme', 'hugo', 'bootstrap', 'responsive', 'clean', 'simple', 'creative', 'contact form', 'light', 'white', 'custom-design', 'minimal', 'minimalistic', 'minimalist', 'portfolio', 'customizable', 'flexbox', 'starter', 'theme']
+features = ['responsive', 'bootstrap']
+min_version = "0.59.0"
+theme = "roberto-uroz-hugo-theme"
+
+[author]
+  name = "Roberto Uroz"
+  homepage = "https://robertouroz.com/"

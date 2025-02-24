@@ -1,0 +1,112 @@
+title: "Portfolio"
+subtitle: "Browse my portfolio to view a selection of projects that demonstrate my full-stack development expertise and commitment to delivering reliable, efficient software solutions"
+tags:
+  - category: Role
+    items:
+      - name: Frontend
+        id: Frontend
+      - name: Backend
+        id: Backend
+      - name: Full-Stack
+        id: FullStack
+      - name: Dev Ops
+        id: DevOps
+      - name: APIs
+        id: APIs
+      - name: Data Engineering
+        id: DataEngineering
+      - name: UI/UX Design
+        id: UIUXDesign
+  - category: Technology
+    items:
+      - name: React
+        id: React
+      - name: Vue.js
+        id: Vuejs
+      - name: Node.js
+        id: Nodejs
+      - name: Spring
+        id: Spring
+      - name: Go
+        id: Go
+      - name: TypeScript
+        id: TypeScript
+      - name: Java
+        id: Java
+      - name: Python
+        id: Python
+      - name: Docker
+        id: Docker
+      - name: Kubernetes
+        id: Kubernetes
+      - name: Terraform
+        id: Terraform
+      - name: PostgreSQL
+        id: PostgreSQL
+projects:
+  - title: Bolig Tracker
+    tags:
+      - APIs
+      - Go
+      - FullStack
+      - Vuejs
+      - DataEngineering
+      - UIUXDesign
+      - Frontend
+      - Backend
+      - Docker
+      - PostgreSQL
+      - TypeScript
+    img:
+      src: /images/portfolio/bolig_tracker.webp
+      alt: Bolig Tracker homepage
+    description: Bolig Tracker is a self-host project where you can analyze Copenhagen real estate, providing improved analytics from different sources into one-solution. (WIP)
+    footer: |
+      <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="https://github.com/RobertoUroz/BoligTracker">Find more here 🡵</a>
+  - title: New York's Vehicle Collisions
+    description: This project analyzes car collisions in New York during 2021, providing interactive visualizations to explore various aspects of the data. Developed using Altair, a Python data visualization library that leverages the Vega-Lite format, and pandas for data sanitation, it was built in Google Colab for flexibility and ease of use.
+    tags:
+      - Python
+      - DataEngineering
+      - UIUXDesign
+    footer: |
+      <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="https://github.com/RobertoUroz/NewYork-Collisions-2021-DataVisualization-Interactive">Find more here 🡵</a>
+    img:
+      src: /images/portfolio/new_york.webp
+      alt: New York Vehicle Collision Homepage
+  - title: Flight Museum
+    description: Flight Museum is a project using Unity to recreate a 3D museum of airplanes in Virtual Reality. This Android app lets users hop on an airplane and fly through a dynamic map of the museum—an immersive experience enhanced by Google Cardboard.
+    footer: |
+      <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="https://github.com/RobertoUroz/NewYork-Collisions-2021-DataVisualization-Interactive">Find more here 🡵</a>
+    tags:
+      - "3D"
+      - "VirtualReality"
+      - "Unity"
+      - "C#"
+    img:
+      src: /images/portfolio/flight_museum.webp
+      alt: Screenshot of flight museum
+  - title: Multilingual Invoice Generator
+    description: The Multilingual Invoice Generator is a robust solution designed to create professional invoices in multiple languages and scripts. This project leverages dynamic HTML templates and JSON data to produce PDF invoices that can be rendered offline and later synchronized with a central document storage server. It is especially suited for environments with limited internet connectivity and diverse linguistic needs.
+    footer: |
+      <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="https://github.com/RobertoUroz/MultiLingual-Invoice-Generator">Find more here 🡵</a>
+    tags:
+      - Frontend
+      - Mobile
+      - JavaScript
+      - FullStack
+    img:
+      src: /images/portfolio/PTE.webp
+      alt: PTE App Icon
+  - title: Hero and Dragon
+    description: Hero and Dragon is an AR project developed in Unity using ARFoundation. Inspired by the legendary Sant Jordi, this interactive experience allows users to deploy and interact with two virtual characters—a hero and a dragon—in the real world.
+    footer: |
+      <a class="link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover" href="https://github.com/RobertoUroz/Hero-And-Dragon">Find more here 🡵</a>
+    tags:
+      - "3D"
+      - "AugmentedReality"
+      - "Unity"
+      - "C#"
+    img:
+      src: /images/portfolio/hero_and_dragon.webp
+      alt: Screenshot of Hero and Dragon
