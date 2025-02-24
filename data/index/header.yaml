@@ -4,4 +4,12 @@ title:
 subtitle:
   text: " Uroz"
   color: "#297BFF"
-  url: localhost:1313
+sections:
+  - href: "#about"
+    title: About
+  - href: "#experience"
+    title: Experience
+  - href: "#portfolio"
+    title: Portfolio
+  - href: "#contact"
+    title: Contact
