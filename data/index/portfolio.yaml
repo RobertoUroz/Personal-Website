@@ -9,40 +9,32 @@ tags:
         id: Backend
       - name: Full-Stack
         id: FullStack
-      - name: Dev Ops
-        id: DevOps
       - name: APIs
         id: APIs
       - name: Data Engineering
         id: DataEngineering
       - name: UI/UX Design
         id: UIUXDesign
+      - name: App Developer
+        id: AppDeveloper
   - category: Technology
     items:
-      - name: React
-        id: React
       - name: Vue.js
         id: Vuejs
-      - name: Node.js
-        id: Nodejs
-      - name: Spring
-        id: Spring
       - name: Go
         id: Go
       - name: TypeScript
         id: TypeScript
-      - name: Java
-        id: Java
+      - name: JavaScript
+        id: JavaScript
       - name: Python
         id: Python
       - name: Docker
         id: Docker
-      - name: Kubernetes
-        id: Kubernetes
-      - name: Terraform
-        id: Terraform
       - name: PostgreSQL
         id: PostgreSQL
+      - name: Unity
+        id: Unity
 projects:
   - title: Bolig Tracker
     tags:
@@ -83,6 +75,7 @@ projects:
       - "VirtualReality"
       - "Unity"
       - "C#"
+      - AppDeveloper
     img:
       src: /images/portfolio/flight_museum.webp
       alt: Screenshot of flight museum
@@ -95,6 +88,7 @@ projects:
       - Mobile
       - JavaScript
       - FullStack
+      - AppDeveloper
     img:
       src: /images/portfolio/PTE.webp
       alt: PTE App Icon
@@ -107,6 +101,7 @@ projects:
       - "AugmentedReality"
       - "Unity"
       - "C#"
+      - AppDeveloper
     img:
       src: /images/portfolio/hero_and_dragon.webp
       alt: Screenshot of Hero and Dragon

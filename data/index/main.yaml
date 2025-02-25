@@ -1,10 +1,2 @@
-title:
-  text: Welcome, I'm Roberto
-  color: "#202124"
-subtitle:
-  text: I'm a software engineer
-cta:
-  text: Let's get started
-picture:
-  src: /images/main.webp
-  alt: A picture of Roberto Uroz
+title: '<h1>Roberto <span style="color: #297BFF">Uroz</span></h1>'
+subtitle: '<span style="color: #297BFF">Full-Stack Developer</span> focusing on building meaningful solutions,<br />shipping robust code, and making people’s lives easier along the way.'
